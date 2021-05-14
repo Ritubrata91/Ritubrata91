@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ritubrata91. Working as Senior Software Developer and having 7years 5 months of Experience.
-- 👀 I’m interested in Java, Spring, SpringMVC, SpringBoot, REST-API, Spring Data , SQL and Hibernate
-- 🌱 I’m currently learning MicroServices , Cloud Computing 
+- 👀 I’m interested in Java, Spring, SpringMVC, SpringBoot, REST-API, Spring Data , SQL and Hibernate. 
+- 🌱 I’m currently learning MicroServices and Cloud Computing. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
