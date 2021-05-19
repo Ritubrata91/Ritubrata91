@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ritubrata91. Working as Senior Software Developer and having 7years 5 months of Experience.
 - 👀 I’m interested in Java, Spring, SpringMVC, SpringBoot, REST-API, Spring Data , SQL and Hibernate. 
-- 🌱 I’m currently learning MicroServices and Cloud Computing. 
-- 💞️ I’m looking to collaborate on all the above mentioned topic
+- 🌱 I’m currently learning MicroServices, Docker, Kubernates and Cloud Computing. 
+- 💞️ I’m looking to collaborate on all the above mentioned topics.
 - 📫 You can connect me on LinkedIn https://www.linkedin.com/in/ritubrata-chatterjee-17522064/
 
 <!---
