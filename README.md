@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Ritubrata91. Working as Senior Software Developer and having 7years 9 months of Experience.
-- 👀 I’m interested in Java, Spring, SpringMVC, SpringBoot, REST-API, Spring Data , Spring Cloud , MicroServices , Hibernate and SQL. 
-- 🌱 I’m currently learning Kafka, RabbitMq, Docker, Kubernates and Cloud Computing. 
-- 💞️ I’m looking to collaborate on all the above mentioned topics.
-- 📫 You can connect me on LinkedIn https://www.linkedin.com/in/ritubrata-chatterjee-17522064/
+Dedicated and accomplished Java Technical Lead/Architect with almost 10 years of experience in successfully designing, developing, and deploying Enterprise applications on Microservices Architecture. Proficient in agile methodologies, proven track record of Solution Design, Strong leadership skills, Mentoring junior developers, Optimizing codebase and driving project success.
 
 <!---
 Ritubrata91/Ritubrata91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
